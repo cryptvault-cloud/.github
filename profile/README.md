@@ -7,7 +7,7 @@ Simply put, the CryptVault is a normal vault system.
 
 In other words, a system for sharing information between multiple systems.
 
-[Checkout webpage for more Information!](https://cryptvault.cloud)
+<a href="https://cryptvault.cloud" target="_blank">Checkout webpage for more Information!</a>
 
 On Github you will find all code open projects as a part of CryptVault.
 
